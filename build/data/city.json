@@ -1,13 +1,13 @@
 [{
   "id": "",
-  "name": "全国"
+  "name": "nation"
 }, {
   "id": "c1",
-  "name": "北京"
+  "name": "Beijing"
 }, {
   "id": "c2",
-  "name": "上海"
+  "name": "ShangHai"
 }, {
   "id": "c3",
-  "name": "广州"
+  "name": "Guangzhou"
 }]

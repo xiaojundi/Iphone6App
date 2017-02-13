@@ -1,22 +1,22 @@
-[
+﻿[
   {
     "id": "p1",
     "imageUrl": "/image/company-1.png",
-    "job": "WEB前端",
+    "job": "WEB-front end",
     "companyId": "c1",
-    "companyName": "慕课网",
+    "companyName": "Baidu",
     "cityId": "c1",
-    "cityName": "北京",
+    "cityName": "Beijing",
     "scaleId": "s2",
-    "scaleName": "50-100人",
+    "scaleName": "50-100",
     "industryId": "i1",
-    "industryName": "互联网",
+    "industryName": "Internet",
     "salaryId": "s5",
     "salaryName": "10k-15k",
     "experience": "1-3年",
-    "education": "本科",
-    "benefit": "发展前景好",
-    "description": "岗位职责：\n1.负责公司前端页面开发；...",
+    "education": "BA",
+    "benefit": "good development enviroment",
+    "description": "Duty：\n1.In charge of front end development；...",
     "date": "2016-06-01 01:05",
     "select": true
   }
